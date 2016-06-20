@@ -1,0 +1,30 @@
+{
+    "name": "jucksearm/magento2-language-th-th",
+    "description": "Magento2 Thai Language Pack (th_TH)",
+    "version": "100.6.11",
+    "type": "magento2-language",
+    "homepage": "http://github.com/jucksearm/magento2-language-th-th",
+    "keywords": [
+        "magento",
+        "magento2",
+        "magento 2",
+        "plugin",
+        "module",
+        "thai",
+        "language pack",
+        "th_TH",
+        "i18n",
+        "th"
+    ],
+    "license": [
+        "MIT"
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
