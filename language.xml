@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento2 Thai Language Pack (th_TH)
+ * 
+ * Github: https://github.com/jucksearm/magento2-language-th-th
+ * 
+ * @author Jucksearm Boonmor <jucksearm.bkk@gmail.com>
+ * @copyright Copyright © 2016 Jucksearm
+ * @version 100.6.11
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>th_TH</code>
+    <vendor>jucksearm</vendor>
+    <package>th_th</package>
+</language>
