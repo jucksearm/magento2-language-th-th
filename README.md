@@ -1,8 +1,11 @@
 # Magento 2 Thai Language Pack
 
-Thai translation for Magento 2. Translation th_TH (thai Thai).
+Thai translation for Magento 2. Translation th_TH (thai Thailand).
 
 See: https://github.com/jucksearm/magento2-language-th-th
+
+Version :
+* 100.0.1
 
 Supported versions:
 * Magento v2.0.7
