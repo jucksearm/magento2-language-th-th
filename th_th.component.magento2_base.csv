@@ -1,0 +1,38 @@
+"All ","ทั้งหมด ",component,Magento2_Base
+"Another non-translated value for Magento_Catalog","คำอื่นที่ไม่ได้แปลสำหรับ Magento_Catalog",component,Magento2_Base
+"Cancel","ยกเลิก",component,Magento2_Base
+"Close","ปิด",component,Magento2_Base
+"Design value to translate","ออกแบบคำในการแปล",component,Magento2_Base
+"Insert Widget...","แทรก วิดเจ็ด...",component,Magento2_Base
+"Lib js","Lib js",component,Magento2_Base
+"Lib js unused","Lib js ไม่ได้ใช้",component,Magento2_Base
+"Loading...","กำลังโหลด...",component,Magento2_Base
+"Maximum length of this field must be equal or less than %1 symbols.","ความยาวสูงสุดของข้อมูลนี้ต้องเท่ากับหรือไม่เกิน %1 ตัวอักษร.",component,Magento2_Base
+"Method ","กระบวนการ ",component,Magento2_Base
+"Method %s does not exist on jQuery.decorate","กระบวนการ %s ไม่มีอยู่บน jQuery.decorate",component,Magento2_Base
+"Module js","Module js",component,Magento2_Base
+"more","เพิ่มเติม",component,Magento2_Base
+"No records found.","ไม่พบข้อมูล.",component,Magento2_Base
+"Original value for Magento_Store module","ค่าพื้นฐานของโมดูล Magento_Store",component,Magento2_Base
+"Phrase 1","Phrase 1",component,Magento2_Base
+"Phrase 2 %1","Phrase 2 %1",component,Magento2_Base
+"Please enter a date between %min and %max.","โปรดใส่วันที่ระหว่าง %min และ %max.",component,Magento2_Base
+"Please enter a date from the past.","กรุณาใส่วันที่จากที่ผ่านมา.",component,Magento2_Base
+"Please enter a date in the past.","กรุณาใส่วันที่จากที่ผ่านมา.",component,Magento2_Base
+"Please enter a valid day (1-%1).","กรุณาใส่วันให้ถูกต้อง (1-%1).",component,Magento2_Base
+"Please enter a valid year (1900-%1).","กรุณาใส่ปีให้ถูกต้อง (1900-%1).",component,Magento2_Base
+"Please enter a value greater than or equal to %s.","กรุณาใส่ค่าที่มากกว่าหรือเท่ากับ %s.",component,Magento2_Base
+"Please enter a value less than or equal to %s.","กรุณาใส่ค่าที่น้อยกว่าหรือเท่ากับ %s.",component,Magento2_Base
+"Please wait...","กรุณารอสักครู่...",component,Magento2_Base
+"Recent items","รายการล่าสุด",component,Magento2_Base
+"%s","%s",component,Magento2_Base
+"Save","บันทึก",component,Magento2_Base
+"Show all...","แสดงทั้งหมด...",component,Magento2_Base
+"Some non-translated value for Magento_Catalog","บางคำที่ไม่สามารถแปลได้สำหรับ Magento_Catalog",component,Magento2_Base
+"%s - %s","%s - %s",component,Magento2_Base
+"Submit","ส่งข้อมูล",component,Magento2_Base
+"Text with different translation on different modules","ข้อความที่มีการแปลภาษาที่แตกต่างกันในโมดูลที่แตกต่างกัน",component,Magento2_Base
+"This is a required field.","ข้อมูลที่จำเป็น.",component,Magento2_Base
+"Translate","แปล",component,Magento2_Base
+"translation to the same value","แปลเป็ฯคำที่คล้ายกัน",component,Magento2_Base
+"Upload server currently unavailable - ","เซิร์ฟเวอร์อัปโหลดไม่สามารถใช้ได้ในขณะนี้ - ",component,Magento2_Base

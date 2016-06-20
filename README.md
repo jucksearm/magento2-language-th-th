@@ -38,7 +38,8 @@ Create folder your-magento-path/app/i18n/jucksearm/th_th and extract zip into pa
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 10260 | 0 | 10260 | ![Progress](http://progressed.io/bar/0) |
+| 10260 | 38 | 10222 | ![Progress](http://progressed.io/bar/1) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
+| Component Magento2_Base | 38 | 38 | 0 | ![Progress](http://progressed.io/bar/100) |
