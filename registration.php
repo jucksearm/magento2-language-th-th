@@ -7,7 +7,7 @@
  * 
  * @author Jucksearm Boonmor <jucksearm.bkk@gmail.com>
  * @copyright Copyright © 2016 Jucksearm
- * @version 100.0.1
+ * @version 100.1.0
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
