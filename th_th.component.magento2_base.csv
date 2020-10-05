@@ -4,8 +4,8 @@
 "Close","ปิด",component,Magento2_Base
 "Design value to translate","ออกแบบคำในการแปล",component,Magento2_Base
 "Insert Widget...","แทรก วิดเจ็ด...",component,Magento2_Base
-"Lib js","Lib js",component,Magento2_Base
-"Lib js unused","Lib js ไม่ได้ใช้",component,Magento2_Base
+"Lib js","Javascript Library",component,Magento2_Base
+"Lib js unused","Javascript Library ที่ไม่ได้ใช้งาน",component,Magento2_Base
 "Loading...","กำลังโหลด...",component,Magento2_Base
 "Maximum length of this field must be equal or less than %1 symbols.","ความยาวสูงสุดของข้อมูลนี้ต้องเท่ากับหรือไม่เกิน %1 ตัวอักษร.",component,Magento2_Base
 "Method ","กระบวนการ ",component,Magento2_Base
